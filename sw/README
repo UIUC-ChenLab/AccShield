@@ -1,0 +1,3 @@
+This is the directory for software components.
+- `driver`: device driver. Serves as the interface between user applicaiton and AccShield.
+- `app`: user application.
