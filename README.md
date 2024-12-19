@@ -3,7 +3,7 @@ AccShield is a confidential computing design and platform to extend Trusted Exec
 
 # Documentation
 
-We are currently working on the instructiona of building, running and using AccShield. Stay tuned for updates as we enhance the documentation. If you encounter any issues, bugs, or have suggestions for improvements, please don’t hesitate to reach out. We will work hard to fix them.
+We are currently working on the instruction of building, running and using AccShield. Stay tuned for updates as we enhance the documentation. If you encounter any issues, bugs, or have suggestions for improvements, please don’t hesitate to reach out. We will work hard to fix them.
 
 # Publication
 Please refer to our DAC’23 paper for more detailed information. If you are using AccShield in your research, the following reference is provided.
