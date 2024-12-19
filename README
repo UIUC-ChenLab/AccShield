@@ -1,2 +1,0 @@
-# AccShield
-AccShield is a confidential computing design and platform to extend Trusted Exectuion Environment (TEE) for hardware accelerators, targeting to emulate future cloud. We demonstrate the feasibility of end-to-end secure and zero-trust acceleration. In our paper we focus on the machine learning accelerators such as Tensor Processing Units (TPUs), and implemented our prototype on FPGA. But our methodology is applicable to accelerators and system integration in general.
